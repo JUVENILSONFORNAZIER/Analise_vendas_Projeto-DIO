@@ -16,7 +16,7 @@ O objetivo principal foi processar e modelar uma base de dados de vendas para ge
 *   `/docs`: Imagens e documentação complementar.
 
 ## 🖼️ Preview do Dashboard
-![Dashboard de Vendas](docs/image_f16101.png)
+![Dashboard de Vendas](docs/dashboard.png.png)
 
 ## 🚀 Como Visualizar
 1. Faça o clone deste repositório em sua máquina local.
