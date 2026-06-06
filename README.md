@@ -1,15 +1,5 @@
-## 📊 Dashboards e Visualizações
+# Analise_vendas_Projeto-DIO
 
-Abaixo estão os relatórios gerados a partir da análise de dados:
+Este projeto contém a análise de dados de vendas.
 
-### Venda por Segmento
-![Venda por Segmento](docs/Total%20Valor%20Venda%20por%20Segmento.png)
-
-### Venda por Categoria
-![Venda por Categoria](docs/Total%20Valor%20Venda%20por%20Categoria.png)
-
-### Venda por Fabricante
-![Venda por Fabricante](docs/Total%20valor%20Venda%20por%20Fabricante.png)
-
-### Venda por Vendedor e Estado
-![Venda por Vendedor e Estado](docs/Total%20valor%20venda%20por%20Vendedor-Estado.png)
+![Dashboard](docs/dashboard.png)
